@@ -1,4 +1,4 @@
 spacewar
 ========
 
-2d space shooter
+2d space shooter on QT
