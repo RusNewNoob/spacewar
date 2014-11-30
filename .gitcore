@@ -1,0 +1,40 @@
+# Folders
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+html/
+*.tmp
+*.sdb
+
+# Qt-es
+*.pro.user
+*.pro.user.*
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+Makefile*
+*-build-*
+*.autosave
+
+# Static libraries
+*.lib
+*.lai
+*.la
+*.a
+
+# Shared libraries
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.obj
+*.slo
+*.lo
+*.o
